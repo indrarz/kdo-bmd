@@ -54,6 +54,10 @@ Server akan berjalan di `http://localhost:4000` atau sesuai konfigurasi `PORT` d
 | `createdAt` | Date | Tanggal dibuat |
 | `updatedAt` | Date | Tanggal diperbarui |
 
+
+## API Docs
+https://documenter.getpostman.com/view/30035052/2sBYHaMbiv
+
 Screenshot Hasil Pengetesan API
 
 Update Profile Admin Unauthorized
