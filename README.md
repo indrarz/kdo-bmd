@@ -53,3 +53,19 @@ Server akan berjalan di `http://localhost:4000` atau sesuai konfigurasi `PORT` d
 | `kondisi` | String | Kondisi kendaraan |
 | `createdAt` | Date | Tanggal dibuat |
 | `updatedAt` | Date | Tanggal diperbarui |
+
+Screenshot Hasil Pengetesan API
+<img width="1920" height="1200" alt="SS Update Profile Admin Unauthorized" src="https://github.com/user-attachments/assets/893835f8-768e-41a6-9f88-006d6b953c2a" />
+<img width="1920" height="1200" alt="SS Update Profile Admin Success" src="https://github.com/user-attachments/assets/b52a2457-9b5e-4511-8df2-51cdae6e205e" />
+<img width="1920" height="1200" alt="SS Registrasi Admin Success" src="https://github.com/user-attachments/assets/5d1a0d54-f3bb-4d70-b08b-3958808222e2" />
+<img width="1920" height="1200" alt="SS Registrasi Admin Bad Request" src="https://github.com/user-attachments/assets/85dbd9e9-d176-4f9a-bfd2-e7c2ce711df7" />
+<img width="1920" height="1200" alt="SS Login Admin Unauthorized" src="https://github.com/user-attachments/assets/70d6078b-5905-41b3-a003-ee66ba22296c" />
+<img width="1920" height="1200" alt="SS Login Admin Success" src="https://github.com/user-attachments/assets/3bf33719-1a18-4ec4-8c84-0094d0a304c8" />
+<img width="1920" height="1200" alt="SS Login Admin Bad Request" src="https://github.com/user-attachments/assets/a62a6a56-8d02-4ea4-bd1e-4efb6f61ca33" />
+<img width="1920" height="1200" alt="SS Get Profile Admin Unauthorized" src="https://github.com/user-attachments/assets/336fe079-d463-4122-a524-6078e0014588" />
+<img width="1920" height="1200" alt="SS Get Profile Admin Success" src="https://github.com/user-attachments/assets/282404b8-2144-4117-8df8-d4b2ad9f265f" />
+<img width="1920" height="1200" alt="SS Get Instansi Success" src="https://github.com/user-attachments/assets/6034a613-4463-4b9a-8374-07e62d42c97a" />
+<img width="1920" height="1200" alt="SS Get Instansi by Id Success" src="https://github.com/user-attachments/assets/6b288971-9bd2-4a9d-82bf-fe06b484e67f" />
+<img width="1920" height="1200" alt="SS Create Instansi Unauthorized" src="https://github.com/user-attachments/assets/5c4f630e-7f83-491b-bcf0-39848e10a327" />
+<img width="1920" height="1200" alt="SS Create Instansi Success" src="https://github.com/user-attachments/assets/fd82f335-6475-4aae-89fb-91c3e9c2c9c3" />
+
