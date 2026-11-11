@@ -31,6 +31,7 @@ Server akan berjalan di `http://localhost:4000` atau sesuai konfigurasi `PORT` d
 | `createdAt` | Date | Tanggal dibuat |
 | `updatedAt` | Date | Tanggal diperbarui |
 ### 2. `instansi`
+| Field | Type | Description |
 |--------|--------|-------------|
 | `_id` | ObjectId | Primary key |
 | `unit_kerja_code` | String | Kode layanan (unik) |
